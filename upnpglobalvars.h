@@ -162,6 +162,7 @@
 	"http-get:*:video/x-flv:*," \
 	"http-get:*:video/x-tivo-mpeg:*," \
 	"http-get:*:video/quicktime:*," \
+	"http-get:*:video/x-pn-realvideo:*," \
 	"http-get:*:audio/mp4:*," \
 	"http-get:*:audio/x-wav:*," \
 	"http-get:*:audio/x-flac:*," \
